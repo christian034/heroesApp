@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://m.media-amazon.com/images/M/MV5BZjFhZmU5NzUtZTg4Zi00ZjRjLWI0YmQtODk2MzI4YjNhYTdkXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "dc-flash",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "mAda3Ol",
+      "superhero": "Saitama",
+      "publisher": "shonen jump",
+      "alter_ego": "Calvo con capa",
+      "first_appearance": "Capítulo 1: Un golpe",
+      "characters": "Saitama",
+      "alt_img": "https://i.redd.it/dr-manhattan-vs-saitama-v0-vv7kqijam3f91.jpg?width=3840&format=pjpg&auto=webp&s=9d0af1a407fef84d3df47b20135e01dc7d6272dd"
     }
   ]
 }
